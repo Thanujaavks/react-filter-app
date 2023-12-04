@@ -9,9 +9,9 @@ function App() {
   return (
     <>
     <Navigation/>
-    <Product/>
-    <Recommended/>
-    <Category/>
+    {/* <Product/> */}
+    {/* <Recommended/> */}
+    {/* <Category/> */}
     </>
   );
 }
